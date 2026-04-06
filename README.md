@@ -33,8 +33,3 @@ The program models how an operating system schedules processes using the Round R
    - Processes that are not finished are cycled back into execution.
 5. After execution, performance metrics are calculated and displayed.
 
-## Compilation and Execution
-
-### Compile:
-```bash
-gcc round_robin_scheduler.c -o scheduler
